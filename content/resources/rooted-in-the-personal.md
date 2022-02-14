@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Rooted in the Personal: Students\u2019 Questions about Identity"
 uid: b6486e19-fa97-4a02-0af2-e8a6e67a4f4f

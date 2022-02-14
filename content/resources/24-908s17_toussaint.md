@@ -8,7 +8,9 @@ image_metadata:
     Haitian Revolution.
   credit: This image is in the public domain.
   image-alt: Toussaint Louverture holding a document
+learning_resource_types: []
 resourcetype: Image
 title: Toussaint Louverture
+type: OCWImage
 uid: 759d9f2d-fa74-c64d-e617-42cd1a4da538
 ---

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Oral Presentations: Connecting Abstract Analyses to Lived Experiences'
 uid: 36b1e9e2-e63b-64e3-b6b7-936a98d93059

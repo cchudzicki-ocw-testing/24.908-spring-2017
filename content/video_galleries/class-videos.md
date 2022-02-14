@@ -1,7 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
 title: Class Videos
+type: CourseSection
 uid: eaffc1ea-1beb-a142-e49a-d7b7dfbb3d73
 videos:
   content:

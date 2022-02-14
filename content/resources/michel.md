@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: Michel.jpeg
+type: OCWImage
 uid: a6332a91-0b32-1ef8-906f-c8929fdb4c89
 ---
