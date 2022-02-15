@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: "Brase lide ak edikat\xE8 a (Meet the Educator) - Transcript"
-type: OCWFile
 uid: 989cfd15-503e-97d2-fc9d-59850eb6c712
 ---

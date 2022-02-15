@@ -7,6 +7,5 @@ learning_resource_types: []
 resourcetype: Document
 title: "Korije vye lide sou lang krey\xF2l e sou f\xF2masyon idantite (Unpacking Misconceptions\
   \ about Creole Languages & Identities) - Transcript"
-type: OCWFile
 uid: 6816b542-b0e0-a360-d52f-b899f9bf29f4
 ---

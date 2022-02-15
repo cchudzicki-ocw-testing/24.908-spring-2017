@@ -7,6 +7,5 @@ learning_resource_types: []
 resourcetype: Document
 title: "S\xE8vi ak sondaj pami etidyan yo pou n byen kadre ans\xE8yman an selon pwofil\
   \ etidyan yo (Using Student Surveys to Customize Teaching) Transcript"
-type: OCWFile
 uid: 59dc3059-80ef-7136-1f38-fc5350195b38
 ---

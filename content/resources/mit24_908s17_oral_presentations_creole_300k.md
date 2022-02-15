@@ -8,6 +8,5 @@ resourcetype: Document
 title: "Prezantasyon oral etidyan yo: Konekte analiz abstr\xE8 ak esperyans ke yo\
   \ viv (Oral Presentations: Connecting Abstract Analyses to Lived Experiences) -\
   \ Transcript"
-type: OCWFile
 uid: 7c046eb7-aa84-88a8-ea97-da94d1a9f391
 ---

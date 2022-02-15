@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: '24.908 S17: Essay writing guidelines'
-type: OCWFile
 uid: 851d7b0c-54e0-bd8e-855f-d54f3948fe9c
 ---

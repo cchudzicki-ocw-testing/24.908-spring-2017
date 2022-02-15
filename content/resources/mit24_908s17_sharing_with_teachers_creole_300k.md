@@ -7,6 +7,5 @@ learning_resource_types: []
 resourcetype: Document
 title: Pataje ak anseyan pou  ankouraje chanjman sosyal tou patou (Sharing with Teachers
   to Promote Social Change) - Transcript
-type: OCWFile
 uid: fb8c1960-594c-cabf-98db-ceaca59c0a98
 ---

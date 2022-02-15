@@ -7,6 +7,5 @@ learning_resource_types: []
 resourcetype: Document
 title: "Enpak aprantisaj la nan lavi tou l\xE8 jou etidyan yo (Real-World Learning\
   \ Outcomes) - Transcript"
-type: OCWFile
 uid: cf250e53-df20-b436-b473-509632c527d2
 ---

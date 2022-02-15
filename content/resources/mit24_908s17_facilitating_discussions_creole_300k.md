@@ -7,6 +7,5 @@ learning_resource_types: []
 resourcetype: Document
 title: "Ent\xE8vyou ak pwofes\xE8 a:  Fasilite brase lide ki djanm nan sal klas (Facilitating\
   \ Meaningful Classroom Discussions) - Transcript"
-type: OCWFile
 uid: f743e185-5252-36e7-071b-8f058d2aa469
 ---

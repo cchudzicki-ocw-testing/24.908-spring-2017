@@ -8,6 +8,5 @@ parent_title: Student Presentations
 parent_type: CourseSection
 resourcetype: Document
 title: Discourses of Power
-type: OCWFile
 uid: 3ab84516-b69d-02a4-d764-9438b02221be
 ---

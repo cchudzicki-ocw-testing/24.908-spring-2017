@@ -12,6 +12,5 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: video_placeholder.jpg
-type: OCWImage
 uid: f96a93b6-7009-22ea-5d91-32d927fe01c4
 ---

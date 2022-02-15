@@ -8,6 +8,5 @@ parent_title: Student Presentations
 parent_type: CourseSection
 resourcetype: Document
 title: Race and Language
-type: OCWFile
 uid: f2400ee1-52a3-1fb0-e237-425834c6bab0
 ---

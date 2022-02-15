@@ -8,6 +8,5 @@ parent_title: Student Presentations
 parent_type: CourseSection
 resourcetype: Document
 title: Unthinkable Revolutions
-type: OCWFile
 uid: 3edee4fa-0907-dadf-a63f-493726e6b6f9
 ---

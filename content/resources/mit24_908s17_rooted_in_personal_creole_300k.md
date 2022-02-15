@@ -7,6 +7,5 @@ learning_resource_types: []
 resourcetype: Document
 title: "Chache konprann ki moun nou ye: Kesyon etidyan yo sou idantite (Rooted in\
   \ the Personal: Students\u2019 Questions about Identity) - Transcript"
-type: OCWFile
 uid: 2bb0af92-254c-f2ba-79ec-48a5ab3348c6
 ---
