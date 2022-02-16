@@ -4,6 +4,7 @@ description: Student presentation for 24.908 S17
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-908-creole-language-and-caribbean-identities-spring-2017/064444aa05c70df91800f100184e30ca_MIT24_908s17_Colonialism.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Student Presentations
 parent_type: CourseSection
 resourcetype: Document

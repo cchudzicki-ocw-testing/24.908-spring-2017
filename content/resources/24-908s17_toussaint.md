@@ -9,6 +9,7 @@ image_metadata:
   credit: This image is in the public domain.
   image-alt: Toussaint Louverture holding a document
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Toussaint Louverture
 uid: 759d9f2d-fa74-c64d-e617-42cd1a4da538
