@@ -12,7 +12,7 @@ uid: ad2b27f5-60b9-e1db-df23-5c6bce654b0c
 Instructor Insights
 -------------------
 
-[![Smiling man wearing orange shirt, colorful scarf, and glasses. Bookshelves and file cabinets in the background.]({{< resource_file a6332a91-0b32-1ef8-906f-c8929fdb4c89 >}})](/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/resources/meet-the-educator)
+[{{< resource a6332a91-0b32-1ef8-906f-c8929fdb4c89 >}}](/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/resources/meet-the-educator)
 
 Professor Michel DeGraff in his office on the MIT campus. (Image courtesy of MIT OpenCourseWare.)
 
@@ -109,7 +109,7 @@ A [rubric (PDF)](/courses/24-908-creole-languages-and-caribbean-identities-sprin
 Student Information
 -------------------
 
-![Less than 10 students took this course when it was taught in Spring 2017.]({{< resource_file 16edfdfb-ae9c-3294-8f1a-178ac3a28af9 >}})
+{{< resource 16edfdfb-ae9c-3294-8f1a-178ac3a28af9 >}}
 
 ### Breakdown by Year
 
