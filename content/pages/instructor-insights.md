@@ -12,7 +12,7 @@ uid: ad2b27f5-60b9-e1db-df23-5c6bce654b0c
 Instructor Insights
 -------------------
 
-[{{< resource a6332a91-0b32-1ef8-906f-c8929fdb4c89 >}}](/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/resources/meet-the-educator)
+{{< resource uuid="a6332a91-0b32-1ef8-906f-c8929fdb4c89" href="/courses/24-908-creole-languages-and-caribbean-identities-spring-2017/resources/meet-the-educator" >}}
 
 Professor Michel DeGraff in his office on the MIT campus. (Image courtesy of MIT OpenCourseWare.)
 
