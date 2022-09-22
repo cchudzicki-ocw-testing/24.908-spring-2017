@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page lists the goals and guidelines for the essay assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

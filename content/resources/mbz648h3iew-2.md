@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-908-creole-language-and-caribbean-identities-spring-2017/a3a74c3a97b45bf8806daa4edc5b579f_Mbz648H3IEw.vtt
+file: /courses/24-908-creole-language-and-caribbean-identities-spring-2017/a3a74c3a97b45bf8806daa4edc5b579f_Mbz648H3IEw.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

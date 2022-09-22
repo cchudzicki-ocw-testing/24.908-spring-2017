@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-908-creole-language-and-caribbean-identities-spring-2017/03e7a7e2c2fc8a3cfa847d05b8b995d7_KO6GiBAK7cY.pdf
+file: /courses/24-908-creole-language-and-caribbean-identities-spring-2017/03e7a7e2c2fc8a3cfa847d05b8b995d7_KO6GiBAK7cY.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

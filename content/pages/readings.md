@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page lists the reading assignments and supplemental materials for
+  each class session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

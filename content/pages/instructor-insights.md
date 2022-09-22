@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section Michel DeGraff describes various aspects of how he taught
+  24.908 Creole Language and Caribbean Identities.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
